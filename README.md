@@ -196,7 +196,6 @@ PORT=5000
 ```
 
 ### Deployment Platforms
-- 🚀 **Replit** (Recommended)
 - ☁️ **Vercel**
 - 🌊 **Netlify**
 - 🐳 **Docker**
@@ -229,27 +228,7 @@ We welcome contributions! Please follow these steps:
 
 ## 📄 License
 
-This project is proprietary software developed for GraminIO Technologies Pvt Ltd.
-
-## 🏢 About GraminIO Technologies
-
-**Founded**: 2024  
-**Location**: Navi Mumbai, India  
-**Specialization**: AI-driven software and tech consulting  
-
-### Services
-- 🤖 AI & ML Development
-- 👁️ Computer Vision & NLP
-- ☁️ Cloud Services (AWS, Azure)
-- 📊 Predictive Data Analytics
-- 📱 Custom Web & Mobile Apps
-- 🔄 The 360° OS Platform
-
-### Contact Information
-- 📧 **Email**: hello@graminio.com
-- 📍 **Location**: Navi Mumbai, India
-- 💰 **Rates**: ₹2k-₹4k per hour
-- ⏰ **Response Time**: Within 24 hours
+-Open Source
 
 ## 🎨 Design Credits
 

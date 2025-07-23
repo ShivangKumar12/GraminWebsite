@@ -16,10 +16,9 @@
 
 **Preview**
 
-<div align="center"> <img src="https://ibb.co/LX85gnnJ" alt="GraminIO Technologies Homepage Preview" style="border-radius: 12px; max-width: 100%; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" /> <br/><br/> <em>GraminIO Homepage – AI-powered, responsive design</em> </div>
+<div align="center"> <img src="https://i.ibb.co/HfVdPnnx/image.png" alt="GraminIO Technologies Homepage Preview" style="border-radius: 12px; max-width: 100%; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" /> <br/><br/> <em>GraminIO Homepage – AI-powered, responsive design</em> </div>
 
 ---
-
 ## 📖 About
 
 GraminIO Technologies is a cutting-edge AI-driven software and tech consulting company founded in 2024, based in Navi Mumbai, India. This repository contains the source code for their professional company homepage, built with modern web technologies and designed to showcase their expertise in AI/ML, cloud services, and custom software development.

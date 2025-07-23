@@ -96,20 +96,29 @@ export default function Footer() {
         </div>
 
         {/* Bottom bar */}
-        <div className="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-slate-400 text-sm">
-            © 2024 GraminIO Technologies Pvt Ltd. All rights reserved.
-          </p>
-          <div className="flex space-x-6 mt-4 md:mt-0">
-            {legalLinks.map((link, index) => (
-              <a
-                key={index}
-                href={link.href}
-                className="text-slate-400 hover:text-white text-sm transition-colors"
-              >
-                {link.label}
-              </a>
-            ))}
+        <div className="border-t border-slate-800 pt-8">
+          <div className="flex flex-col md:flex-row justify-between items-center mb-4">
+            <p className="text-slate-400 text-sm">
+              © 2024 GraminIO Technologies Pvt Ltd. All rights reserved.
+            </p>
+            <div className="flex space-x-6 mt-4 md:mt-0">
+              {legalLinks.map((link, index) => (
+                <a
+                  key={index}
+                  href={link.href}
+                  className="text-slate-400 hover:text-white text-sm transition-colors"
+                >
+                  {link.label}
+                </a>
+              ))}
+            </div>
+          </div>
+          
+          {/* Watermark */}
+          <div className="text-center pt-4 border-t border-slate-800">
+            <p className="text-slate-500 text-xs">
+              Designed & Developed by <span className="text-slate-400 font-medium hover:text-white transition-colors">Netravue</span>
+            </p>
           </div>
         </div>
       </div>

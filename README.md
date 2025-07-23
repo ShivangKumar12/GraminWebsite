@@ -10,7 +10,7 @@
 
 **A modern, responsive React homepage showcasing AI consulting services**
 
-[🌐 Live Demo](#) | [📚 Documentation](#features) | [🎨 Design System](#ui-components)
+[🌐 Live Demo](https://graminwebsite.netlify.app/) | [📚 Documentation](#features) | [🎨 Design System](#ui-components)
 
 </div>
 
@@ -260,6 +260,6 @@ This project is proprietary software developed for GraminIO Technologies Pvt Ltd
 
 Made with ❤️ by Shivang Kumar
 
-[🌐 Website](#) • [📧 Contact](#) • [💼 LinkedIn](#)
+[🌐 Website](https://graminwebsite.netlify.app/) • [📧 Contact](+919852001237) • [💼 LinkedIn](https://www.linkedin.com/in/shivang-kumar98/)
 
 </div>

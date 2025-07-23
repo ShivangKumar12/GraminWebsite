@@ -34,7 +34,7 @@ export default function Navbar() {
             <div className="w-8 h-8 bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg flex items-center justify-center">
               <span className="text-white font-bold text-sm">G</span>
             </div>
-            <span className="text-xl font-bold gradient-text">GraminIO</span>
+            <span className="text-xl font-bold text-slate-900 dark:text-white">GraminIO</span>
           </div>
 
           {/* Desktop Navigation */}

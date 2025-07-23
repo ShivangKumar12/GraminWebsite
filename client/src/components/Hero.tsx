@@ -41,7 +41,7 @@ export default function Hero() {
           >
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight mb-6">
               <span className="block text-slate-900 dark:text-white">AI-Powered Solutions</span>
-              <span className="block gradient-text">{displayText}</span>
+              <span className="block text-transparent bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text font-extrabold">{displayText}</span>
             </h1>
             
             <p className="text-xl sm:text-2xl text-slate-600 dark:text-slate-300 mb-8 max-w-2xl mx-auto lg:mx-0">

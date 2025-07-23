@@ -258,8 +258,8 @@ This project is proprietary software developed for GraminIO Technologies Pvt Ltd
 
 **⭐ Star this repository if you found it helpful!**
 
-Made with ❤️ by the GraminIO Technologies team
+Made with ❤️ by Shivang Kumar
 
-[🌐 Website](https://graminio.com) • [📧 Contact](mailto:hello@graminio.com) • [💼 LinkedIn](https://linkedin.com/company/graminio)
+[🌐 Website](#) • [📧 Contact](#) • [💼 LinkedIn](#)
 
 </div>

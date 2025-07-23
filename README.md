@@ -14,6 +14,10 @@
 
 </div>
 
+**Preview**
+
+<div align="center"> <img src="https://ibb.co/LX85gnnJ" alt="GraminIO Technologies Homepage Preview" style="border-radius: 12px; max-width: 100%; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" /> <br/><br/> <em>GraminIO Homepage – AI-powered, responsive design</em> </div>
+
 ---
 
 ## 📖 About

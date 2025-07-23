@@ -1,0 +1,107 @@
+Generate a responsive, modern homepage using React and Tailwind CSS for a company called GraminIO that provides AI-driven software and tech consulting services.
+
+Company Overview:
+Name: GraminIO Technologies Pvt Ltd
+
+Founded: 2024
+
+HQ: Navi Mumbai, India
+
+Core Services:
+
+AI Solutions (ML, NLP, Computer Vision)
+
+Custom Software Development
+
+Data Analytics
+
+Cloud Services (AWS, Azure)
+
+Proprietary Platform: The 360° OS
+
+Target Clients: SMEs, service-based businesses, tech-driven rural/urban solutions.
+
+Homepage Sections:
+Navbar
+
+Logo (placeholder: GraminIO)
+
+Nav links: Home, Services, Platform, Blog, Contact
+
+Button: “Get in Touch”
+
+Hero Section
+
+Heading: "AI-Powered Solutions for Real-World Impact"
+
+Subheading: "Custom software, analytics & cloud services built to transform service companies."
+
+CTA Buttons: “Explore Platform” and “Contact Us”
+
+Right side: Animated illustration or placeholder image
+
+About Section
+
+Brief: “Founded in 2024, GraminIO helps startups and enterprises build intelligent applications using AI and cloud technologies. We are a passionate team with a mission to innovate for impact.”
+
+Services Section (grid with icons)
+
+AI & ML Development
+
+Computer Vision & NLP
+
+Cloud Services (AWS, Azure)
+
+Predictive Data Analytics
+
+Custom Web & Mobile Apps
+
+The 360° OS Platform
+
+Why Choose GraminIO
+
+Small, agile team = faster delivery
+
+Domain expertise in AI/ML
+
+Cost-effective (₹2k–₹4k/hr)
+
+Strong rural/urban deployment track record
+
+Call to Action
+
+Heading: “Let’s Build the Future Together”
+
+Button: “Schedule a Call”
+
+Footer
+
+Company description
+
+Quick links: Services, Platform, Blog, Careers
+
+Social Icons (LinkedIn, Email)
+
+Copyright
+
+Technical Requirements:
+Use React functional components
+
+Use TailwindCSS for styling
+
+Use react-icons for icons
+
+Responsive design (mobile-first)
+
+Animate on scroll using Framer Motion or Tailwind animations
+
+Use HeroImage.png and CompanyLogo.svg placeholders
+
+Include components/ folder structure: Navbar, Footer, Hero, Services, CTA, etc.
+
+Optional Add-ons (if supported):
+Add dark mode toggle
+
+Include basic SEO tags
+
+Use dummy useEffect() for simulated animation/text typing in Hero
